@@ -3,8 +3,9 @@ layout: post
 title: Piano Notes
 ---
 
-<a href="https://mitzi-s-soto.github.io/piano/"><img src="http://mitzisunshine.com/blog/wp-content/uploads/2017/02/pianosite-300x300.png" alt="" width="300" height="300" /></a><a href="https://mitzi-s-soto.github.io/piano/">https://mitzi-s-soto.github.io/piano/</a>
+[![piano-notes-image](http://mitzisunshine.com/blog/wp-content/uploads/2017/02/pianosite.png)](https://mitzi-s-soto.github.io/piano/)
 
+[GitHub Respitory](https://github.com/Mitzi-S-Soto/piano)
 
 This was a one day project inspired by https://javascript30.com/ DrumKit lesson. It is a program that associates a keyCode with a specific audio and when that keyCode is pressed, plays the audio. Associating the keyCode again to a note on the music staff it shows the current note, hiding the others.
 
