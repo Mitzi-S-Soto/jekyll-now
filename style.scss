@@ -150,8 +150,8 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-	background: #fa8a26;
-	border-top: 4px solid #333;
+	background: #333 url('images/pat1.png');
+	border-top: 4px solid #fa8a26;
 }
 
 .masthead {
@@ -225,7 +225,6 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
